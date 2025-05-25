@@ -2,8 +2,8 @@ package handlers
 
 import (
 	"fmt"
-	"github.com/DrusGalkin/forum-auth-grpc/pkg/auth"
-	"github.com/DrusGalkin/forum-auth-grpc/pkg/logger"
+	"github.com/SpayswolfGood/auth/pkg/auth"
+	"github.com/SpayswolfGood/auth/pkg/logger"
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 	"net/http"

@@ -2,8 +2,8 @@ package usecase
 
 import (
 	"fmt"
-	"github.com/DrusGalkin/forum-auth-grpc/internal/entity"
-	"github.com/DrusGalkin/forum-auth-grpc/pkg/auth"
+	"github.com/SpayswolfGood/auth/internal/entity"
+	"github.com/SpayswolfGood/auth/pkg/auth"
 )
 
 func (uc *UserUseCase) Authenticate(email string, password string) (string, string, int64, error) {

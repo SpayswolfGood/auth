@@ -1,9 +1,9 @@
 package gin
 
 import (
-	_ "github.com/DrusGalkin/forum-auth-grpc/docs"
-	"github.com/DrusGalkin/forum-auth-grpc/internal/delivery/gin/handlers"
-	"github.com/DrusGalkin/forum-auth-grpc/internal/usecase"
+	_ "github.com/SpayswolfGood/auth/docs"
+	"github.com/SpayswolfGood/auth/internal/delivery/gin/handlers"
+	"github.com/SpayswolfGood/auth/internal/usecase"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 	swaggerFiles "github.com/swaggo/files"

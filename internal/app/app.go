@@ -1,11 +1,11 @@
 package app
 
 import (
-	"github.com/DrusGalkin/forum-auth-grpc/internal/delivery/gin"
-	"github.com/DrusGalkin/forum-auth-grpc/internal/repository"
-	"github.com/DrusGalkin/forum-auth-grpc/internal/usecase"
-	"github.com/DrusGalkin/forum-auth-grpc/pkg/database"
-	"github.com/DrusGalkin/forum-auth-grpc/pkg/logger"
+	"github.com/SpayswolfGood/auth/internal/delivery/gin"
+	"github.com/SpayswolfGood/auth/internal/repository"
+	"github.com/SpayswolfGood/auth/internal/usecase"
+	"github.com/SpayswolfGood/auth/pkg/database"
+	"github.com/SpayswolfGood/auth/pkg/logger"
 	_ "github.com/lib/pq"
 	"go.uber.org/zap"
 	"log"

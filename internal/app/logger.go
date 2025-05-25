@@ -1,7 +1,7 @@
 package app
 
 import (
-	"github.com/DrusGalkin/forum-auth-grpc/pkg/logger"
+	"github.com/SpayswolfGood/auth/pkg/logger"
 	"go.uber.org/zap"
 	"time"
 )
