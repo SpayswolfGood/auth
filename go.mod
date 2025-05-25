@@ -1,4 +1,4 @@
-module github.com/DrusGalkin/forum-auth-grpc
+module github.com/SpayswolfGood/auth
 
 go 1.23.6
 
