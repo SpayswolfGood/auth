@@ -1,0 +1,718 @@
+{"level":"info","ts":"2025-04-16T20:30:03.385+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-16 20:30:03.3467698 +0300 MSK m=+0.008650301"}
+{"level":"info","ts":"2025-04-16T20:38:00.589+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-16 20:38:00.5371339 +0300 MSK m=+0.010575801"}
+{"level":"info","ts":"2025-04-16T20:42:25.482+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-16 20:42:25.4368202 +0300 MSK m=+0.008140301"}
+{"level":"info","ts":"2025-04-16T20:42:43.749+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-16 20:42:43.7047823 +0300 MSK m=+0.008833801"}
+{"level":"info","ts":"2025-04-17T08:35:00.160+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-17 08:35:00.1173179 +0300 MSK m=+0.009287001"}
+{"level":"info","ts":"2025-04-17T09:06:41.822+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-17 09:06:41.7829867 +0300 MSK m=+0.007025001"}
+{"level":"info","ts":"2025-04-19T18:16:38.978+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-19 18:16:38.9391108 +0300 MSK m=+0.011920501"}
+{"level":"info","ts":"2025-04-19T18:16:59.574+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-19 18:16:59.5371632 +0300 MSK m=+0.007036701"}
+{"level":"info","ts":"2025-04-19T18:17:02.278+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-19 18:17:02.2394914 +0300 MSK m=+0.007002901"}
+{"level":"info","ts":"2025-04-20T13:12:12.335+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-20 13:12:12.2933573 +0300 MSK m=+0.010385001"}
+{"level":"info","ts":"2025-04-20T13:16:35.201+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-20 13:16:35.1520321 +0300 MSK m=+0.010663301"}
+{"level":"info","ts":"2025-04-20T13:17:49.775+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-20 13:17:49.7338097 +0300 MSK m=+0.010800001"}
+{"level":"info","ts":"2025-04-20T13:18:59.890+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-20 13:18:59.8462596 +0300 MSK m=+0.009551101"}
+{"level":"info","ts":"2025-04-20T13:19:19.276+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-20 13:19:19.2301335 +0300 MSK m=+0.008414701"}
+{"level":"info","ts":"2025-04-20T13:20:19.190+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-20 13:20:19.1484901 +0300 MSK m=+0.009164801"}
+{"level":"info","ts":"2025-04-20T13:20:39.708+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-20 13:20:39.6698886 +0300 MSK m=+0.007485301"}
+{"level":"info","ts":"2025-04-20T13:21:46.237+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-20 13:21:46.1947284 +0300 MSK m=+0.009319801"}
+{"level":"info","ts":"2025-04-20T13:22:19.879+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-20 13:22:19.8392591 +0300 MSK m=+0.009216801"}
+{"level":"info","ts":"2025-04-20T13:25:18.803+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-20 13:25:18.7618955 +0300 MSK m=+0.009606401"}
+{"level":"info","ts":"2025-04-20T13:27:03.892+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-20 13:27:03.8489599 +0300 MSK m=+0.008305601"}
+{"level":"info","ts":"2025-04-20T13:43:48.267+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-20 13:43:48.2258437 +0300 MSK m=+0.007874501"}
+{"level":"info","ts":"2025-04-20T13:49:13.097+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-20 13:49:13.0560569 +0300 MSK m=+0.009971901"}
+{"level":"info","ts":"2025-04-20T13:49:53.821+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-20 13:49:53.7826101 +0300 MSK m=+0.009079801"}
+{"level":"info","ts":"2025-04-20T13:51:32.746+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-20 13:51:32.7064592 +0300 MSK m=+0.008477001"}
+{"level":"info","ts":"2025-04-20T14:06:17.608+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-20 14:06:17.5700315 +0300 MSK m=+0.007172401"}
+{"level":"info","ts":"2025-04-20T14:12:36.063+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-20 14:12:36.0228121 +0300 MSK m=+0.009721701"}
+{"level":"info","ts":"2025-04-21T17:26:19.303+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-21 17:26:19.2606852 +0300 MSK m=+0.008843001"}
+{"level":"info","ts":"2025-04-21T17:42:15.687+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-21 17:42:15.6465477 +0300 MSK m=+0.009869901"}
+{"level":"info","ts":"2025-04-22T10:37:31.500+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-22 10:37:31.4515671 +0300 MSK m=+0.009056801"}
+{"level":"info","ts":"2025-04-23T16:01:34.494+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-23 16:01:34.4568175 +0300 MSK m=+0.009527301"}
+{"level":"info","ts":"2025-04-24T18:49:43.369+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-24 18:49:43.3271902 +0300 MSK m=+0.009148901"}
+{"level":"info","ts":"2025-04-26T14:43:35.998+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-26 14:43:35.9607891 +0300 MSK m=+0.025147301"}
+{"level":"error","ts":"2025-04-26T14:45:22.819+0300","caller":"gin/middleware.go:17","msg":"Отсутствие хедера ","stacktrace":"github.com/DrusGalkin/forum-auth-grpc/internal/delivery/gin.SetupRouter.AuthMiddleware.func1\n\tC:/Users/Андрей Галкин/Desktop/Портфолио/2 курс/GoLang/RestAPI/Full_Stack_Projects/1. Просто Форум - ReactJS + SQLite/backend/auth/internal/delivery/gin/middleware.go:17\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/Андрей Галкин/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tC:/Users/Андрей Галкин/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/recovery.go:102\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/Андрей Галкин/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tC:/Users/Андрей Галкин/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/logger.go:249\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/Андрей Галкин/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tC:/Users/Андрей Галкин/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:633\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tC:/Users/Андрей Галкин/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:589\nnet/http.serverHandler.ServeHTTP\n\tC:/Program Files/Go/src/net/http/server.go:3210\nnet/http.(*conn).serve\n\tC:/Program Files/Go/src/net/http/server.go:2092"}
+{"level":"error","ts":"2025-04-26T14:45:23.713+0300","caller":"gin/middleware.go:17","msg":"Отсутствие хедера ","stacktrace":"github.com/DrusGalkin/forum-auth-grpc/internal/delivery/gin.SetupRouter.AuthMiddleware.func1\n\tC:/Users/Андрей Галкин/Desktop/Портфолио/2 курс/GoLang/RestAPI/Full_Stack_Projects/1. Просто Форум - ReactJS + SQLite/backend/auth/internal/delivery/gin/middleware.go:17\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/Андрей Галкин/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\ngithub.com/gin-gonic/gin.CustomRecoveryWithWriter.func1\n\tC:/Users/Андрей Галкин/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/recovery.go:102\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/Андрей Галкин/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\ngithub.com/gin-gonic/gin.LoggerWithConfig.func1\n\tC:/Users/Андрей Галкин/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/logger.go:249\ngithub.com/gin-gonic/gin.(*Context).Next\n\tC:/Users/Андрей Галкин/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\tC:/Users/Андрей Галкин/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:633\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\tC:/Users/Андрей Галкин/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:589\nnet/http.serverHandler.ServeHTTP\n\tC:/Program Files/Go/src/net/http/server.go:3210\nnet/http.(*conn).serve\n\tC:/Program Files/Go/src/net/http/server.go:2092"}
+{"level":"info","ts":"2025-04-28T13:15:09.512+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-04-28 13:15:09.4738914 +0300 MSK m=+0.027367901"}
+{"level":"info","ts":"2025-04-28T13:17:01.689+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:01.689+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:01.695+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:01.696+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:01.698+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:01.698+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:01.698+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:01.698+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:01.699+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:01.699+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:01.699+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:01.700+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:01.700+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:01.701+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:01.703+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:01.703+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:03.783+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:03.783+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:03.785+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:03.785+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:03.850+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:03.850+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:03.857+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:03.858+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:03.862+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:03.863+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:03.863+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:03.863+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:03.863+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:03.864+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:03.866+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:03.866+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:03.866+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:03.866+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:03.866+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:03.867+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:05.141+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:05.141+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:07.235+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:07.235+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:08.512+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:08.512+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:08.513+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:08.514+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:08.537+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:08.538+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:08.540+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:08.540+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:08.540+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:08.541+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:08.541+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:08.542+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:08.542+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:08.543+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:08.545+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:08.545+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:08.546+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:08.546+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:08.547+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:08.549+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:10.156+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:10.157+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:10.158+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:10.159+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:21.391+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:21.391+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:21.391+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:21.391+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:21.392+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:21.393+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:21.393+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:21.394+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:21.394+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:21.394+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:21.396+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:21.397+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:29.190+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:29.190+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:29.192+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:29.192+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:29.254+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:29.254+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:29.255+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:29.255+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:29.256+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:29.256+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:29.256+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:29.256+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:29.256+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:29.257+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:29.257+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:29.257+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:29.259+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:29.259+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:29.259+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:29.260+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:36.734+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:36.734+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:36.737+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:36.738+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:36.800+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:36.800+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:36.802+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:36.802+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:36.802+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:36.803+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:36.803+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:36.803+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:36.803+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:36.803+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:36.805+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:36.805+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:36.807+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:36.807+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:36.807+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:36.807+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:38.775+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:38.775+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:38.777+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:38.778+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":4}
+{"level":"info","ts":"2025-04-28T13:17:38.821+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:38.822+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:38.823+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:38.823+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:38.825+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:38.825+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:38.825+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:38.825+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:38.826+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:38.826+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-04-28T13:17:38.827+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-04-28T13:17:38.827+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:15:29.071+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-05-15 10:15:29.0226688 +0300 MSK m=+0.029853501"}
+{"level":"info","ts":"2025-05-15T10:16:17.632+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:16:17.633+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:16:17.633+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:16:17.634+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:16:17.636+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:16:17.636+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:16:17.636+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:16:17.637+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:16:17.637+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:16:17.638+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:16:17.639+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:16:17.640+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:16:45.130+0300","caller":"repository/user_repository.go:103","msg":"Создание нового пользователя","email":"2133@aaa.dc"}
+{"level":"info","ts":"2025-05-15T10:16:45.150+0300","caller":"repository/user_repository.go:131","msg":"Пользователь успешно создан","id":5,"email":"2133@aaa.dc"}
+{"level":"info","ts":"2025-05-15T10:16:46.658+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:16:46.659+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:16:46.661+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:16:46.662+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:16:46.726+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:16:46.726+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:16:46.727+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:16:46.727+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:16:46.728+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:16:46.728+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:16:46.730+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:16:46.730+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:16:46.731+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:16:46.732+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:16:46.734+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:16:46.734+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:17.644+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:17.644+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:17.645+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:17:17.646+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:17:17.646+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:17.647+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:17.650+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:17:17.650+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:17.650+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:17:17.650+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:17.652+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:17.654+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:22.719+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:22.719+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:27.533+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:17:27.534+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:17:30.030+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:17:30.031+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:17:31.120+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:17:31.120+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:17:32.713+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:17:32.714+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:17:34.968+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:17:34.968+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:17:34.980+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:17:34.986+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:17:34.998+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:34.999+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:35.001+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:35.001+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:35.004+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:17:35.004+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:35.004+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:17:35.004+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:35.008+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:35.008+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:17:35.009+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:17:35.011+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:44.285+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:17:44.285+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:17:44.286+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:17:44.287+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:17:44.326+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:17:44.326+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:17:44.328+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:44.328+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:44.328+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:17:44.328+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:17:44.329+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:44.329+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:44.342+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:17:44.342+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:44.342+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-15T10:17:44.343+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:44.351+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:17:44.352+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-15T10:17:44.352+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-15T10:17:44.352+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:38:45.293+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-05-22 10:38:45.261333 +0300 MSK m=+0.026718301"}
+{"level":"info","ts":"2025-05-22T10:42:25.437+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:42:25.438+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:42:25.438+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:42:25.438+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:42:25.443+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:42:25.443+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:42:25.447+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:42:25.447+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:42:25.447+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:42:25.447+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:42:25.448+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:42:25.448+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:42:25.448+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:42:25.448+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:42:25.449+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:42:25.449+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:44:32.141+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:44:32.141+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:44:32.143+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:44:32.143+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:44:32.179+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:44:32.179+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:44:32.183+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:44:32.183+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:44:32.187+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:44:32.188+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:44:32.188+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:44:32.188+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:44:32.190+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:44:32.190+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:44:32.190+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:44:32.190+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:44:32.193+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:44:32.194+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:44:32.196+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:44:32.197+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:44:45.546+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:44:45.547+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:44:45.550+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:44:45.550+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:44:45.551+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:44:45.551+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:44:45.551+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:44:45.551+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:44:45.552+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:44:45.552+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:44:45.553+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:44:45.553+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:44:45.554+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:44:45.554+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:44:45.564+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:44:45.564+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:44:45.565+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"warn","ts":"2025-05-22T10:44:45.565+0300","caller":"repository/user_repository.go:85","msg":"Пользователь не найден","id":6,"метод":"GetByID"}
+{"level":"info","ts":"2025-05-22T10:44:45.567+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"warn","ts":"2025-05-22T10:44:45.567+0300","caller":"repository/user_repository.go:85","msg":"Пользователь не найден","id":6,"метод":"GetByID"}
+{"level":"info","ts":"2025-05-22T10:45:16.670+0300","caller":"repository/user_repository.go:103","msg":"Создание нового пользователя","email":"and@A.C"}
+{"level":"info","ts":"2025-05-22T10:45:16.674+0300","caller":"repository/user_repository.go:131","msg":"Пользователь успешно создан","id":6,"email":"and@A.C"}
+{"level":"info","ts":"2025-05-22T10:45:20.746+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:45:20.746+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:45:20.751+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:45:20.751+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:45:20.788+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:45:20.788+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:45:20.789+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:45:20.789+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:45:20.790+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:45:20.790+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:45:20.791+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:45:20.791+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:45:20.796+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:45:20.796+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:45:20.797+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:45:20.797+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:45:20.798+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:45:20.798+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:45:20.799+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:45:20.799+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:45:36.102+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:45:36.102+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:45:39.320+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:45:39.320+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:45:44.858+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:45:44.859+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:45:44.863+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:45:44.863+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:45:49.213+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:45:49.213+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:45:49.224+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:45:49.224+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:45:50.366+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:45:50.366+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:45:50.366+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:45:50.367+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:45:51.419+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:45:51.419+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:45:51.419+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:45:51.420+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:46:07.959+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:46:07.959+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:46:07.964+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:46:07.964+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:46:07.964+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:46:07.964+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:46:07.965+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:46:07.966+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:46:07.967+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:46:07.967+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:47:37.951+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:47:37.952+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:47:37.955+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:47:37.956+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:47:38.098+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:47:38.100+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:47:38.101+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:47:38.107+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:47:38.108+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:47:38.109+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:47:38.108+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:47:38.109+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:47:38.111+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:47:38.111+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:47:38.111+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:47:38.112+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:47:38.114+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:47:38.115+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:47:38.119+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:47:38.119+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:12.139+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:12.140+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:12.142+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:12.143+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:12.158+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:48:12.158+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:48:12.163+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:48:12.163+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:12.163+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:48:12.163+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:48:12.164+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:48:12.164+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:12.166+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:48:12.167+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:48:12.171+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:12.172+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:12.174+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:12.174+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:12.178+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:12.178+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:24.980+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:24.981+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:24.982+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:24.982+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:24.983+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:24.983+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:24.985+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:24.985+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:48:26.888+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:48:26.888+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:48:26.888+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:48:26.888+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:48:26.890+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:48:26.890+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:48:26.890+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:48:26.891+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:51:30.130+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:30.131+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:30.145+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:30.146+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:30.167+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:51:30.167+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:51:30.168+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:30.168+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:30.169+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:30.170+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:51:30.170+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:30.171+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:51:30.172+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:30.172+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:30.176+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:30.177+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:30.177+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:30.178+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:30.178+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:30.178+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:32.177+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:32.177+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:32.179+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:32.179+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:32.188+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:32.188+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:32.190+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:32.190+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:32.192+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:32.192+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:32.192+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:32.193+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:32.195+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:32.195+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:32.195+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:32.196+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:41.117+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:41.117+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:41.119+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:41.119+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:41.119+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:41.119+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:41.120+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:41.120+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:41.120+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:41.121+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:41.121+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:41.121+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:49.938+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:49.939+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:49.939+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:49.940+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:49.941+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:49.941+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:49.941+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:49.941+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:49.944+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:49.944+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:49.945+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:49.945+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:50.847+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:50.847+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:50.848+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:50.848+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:50.849+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:50.849+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:50.849+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:50.849+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:50.852+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:50.853+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:50.855+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:50.855+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:51.207+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:51.208+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:51.209+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:51.209+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:51.209+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:51.210+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:51.211+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:51.211+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:51.211+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:51.211+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:51:51.212+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:51:51.212+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:52:00.679+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:00.679+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:00.693+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:00.695+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:00.721+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:00.721+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:00.723+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:00.723+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:00.726+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:52:00.727+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:52:00.728+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:00.728+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:00.729+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:00.729+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:00.730+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:52:00.731+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:52:05.441+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:05.441+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:05.442+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:52:05.443+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:52:05.445+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:52:05.445+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:52:05.447+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:52:05.447+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:52:05.448+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:52:05.448+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":5}
+{"level":"info","ts":"2025-05-22T10:52:08.202+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:08.203+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:10.483+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:10.483+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:10.496+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:10.496+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:10.513+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:52:10.514+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:52:10.515+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:10.515+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:10.515+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:10.515+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:10.515+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:10.516+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:10.517+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:52:10.518+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:10.523+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:10.525+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:52:22.121+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:22.121+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:22.129+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:22.130+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:22.136+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:22.136+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:22.137+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:22.137+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:22.139+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:22.139+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:22.140+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:52:22.141+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:52:22.147+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:22.147+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:22.149+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:22.149+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:22.150+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:22.150+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:22.151+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:52:22.151+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:52:23.601+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:23.601+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:26.379+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:26.379+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:36.810+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:36.810+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:36.815+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:36.816+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:36.828+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:36.828+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:36.830+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:36.830+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:36.832+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:36.832+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:36.835+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:52:36.835+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:52:36.837+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:36.837+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:36.838+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:36.838+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:36.839+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:36.839+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T10:52:36.840+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:52:36.840+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T10:52:52.293+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:52.293+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:52.294+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:52.294+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:55.490+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:55.491+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:58.843+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:58.844+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:58.849+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:58.851+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:58.896+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:58.899+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:58.901+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:52:58.903+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:58:36.591+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T10:58:36.591+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T11:04:47.659+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-05-22 11:04:47.6215214 +0300 MSK m=+0.020400901"}
+{"level":"info","ts":"2025-05-22T11:04:47.804+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T11:04:47.804+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T17:57:50.638+0300","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-05-22 17:57:50.5572098 +0300 MSK m=+0.036602801"}
+{"level":"info","ts":"2025-05-22T17:57:56.807+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T17:57:56.807+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T17:57:56.808+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:57:56.808+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:57:56.810+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:57:56.810+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T17:57:56.810+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:57:56.810+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:57:56.811+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:57:56.811+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T17:57:56.812+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:57:56.812+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:57:56.813+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:57:56.813+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:57:56.815+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:57:56.815+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:57:58.847+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T17:57:58.847+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T17:58:02.473+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":0}
+{"level":"warn","ts":"2025-05-22T17:58:02.473+0300","caller":"repository/user_repository.go:85","msg":"Пользователь не найден","id":0,"метод":"GetByID"}
+{"level":"info","ts":"2025-05-22T17:58:05.515+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T17:58:05.515+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T17:58:05.516+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:05.517+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:05.517+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:58:05.517+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T17:58:05.517+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:58:05.517+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T17:58:05.519+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:05.519+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:05.521+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:58:05.521+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:05.521+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:58:05.522+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:05.522+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:05.522+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:41.547+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:41.547+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:41.550+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:41.551+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:41.590+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:41.591+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:41.593+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:41.593+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:41.594+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:41.595+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:41.596+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:41.597+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:41.599+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T17:58:41.600+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T17:58:41.604+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:58:41.604+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:58:41.607+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":6}
+{"level":"info","ts":"2025-05-22T17:58:41.607+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:58:41.607+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":6}
+{"level":"info","ts":"2025-05-22T17:58:41.607+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:58:45.836+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:45.836+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:45.838+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:45.839+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:45.907+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:45.907+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:45.907+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:58:45.907+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:58:45.908+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:45.908+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:58:45.908+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:45.909+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:58:45.911+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:45.911+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:45.911+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:45.911+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:52.104+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:52.104+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:52.107+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:52.108+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:52.174+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:52.174+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:52.174+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:58:52.174+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:58:52.174+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:52.175+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:52.176+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:52.176+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:52.176+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:58:52.176+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:52.176+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:58:52.179+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:59:26.600+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:59:26.600+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:59:26.603+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:59:26.604+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:59:26.690+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:59:26.691+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:59:26.695+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:59:26.696+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:59:26.698+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:59:26.699+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:59:26.699+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:59:26.700+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:59:26.702+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:59:26.704+0300","caller":"repository/user_repository.go:75","msg":"Получение пользователя по ID","id":2}
+{"level":"info","ts":"2025-05-22T17:59:26.704+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":1}
+{"level":"info","ts":"2025-05-22T17:59:26.704+0300","caller":"repository/user_repository.go:97","msg":"Успешно получен пользователь по ID","id":2}
+{"level":"info","ts":"2025-05-25T20:09:58.614+0400","caller":"app/logger.go:13","msg":"Логгер запущен","date":"2025-05-25 20:09:58.5929128 +0400 +04 m=+0.021001501"}
